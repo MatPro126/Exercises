@@ -3,3 +3,4 @@ I should use "git status".
 next change
 for the history I should use "git log".
 This is new Text.
+New things to come ...
